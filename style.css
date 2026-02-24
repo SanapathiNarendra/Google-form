@@ -1,3 +1,13 @@
 .google{
     background-color: aqua;
 }
+.text{
+       padding: 4px;
+    margin: 4px;
+    border-radius: 5px;
+
+}
+.Fullname{
+    color: rgba(16, 4, 4, 0.849);
+    font-weight: bold;
+}
