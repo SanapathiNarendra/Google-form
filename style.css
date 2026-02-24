@@ -1,10 +1,11 @@
 .google{
-    background-color: aqua;
+        background-color: white
 }
 .text{
-       padding: 4px;
+      padding: 4px;
     margin: 4px;
     border-radius: 5px;
+    padding-right: 75px;
 
 }
 .Fullname{
@@ -15,25 +16,29 @@
     font-weight: bold;
 }
 .textemail{
-     padding: 4px;
+    padding: 4px;
     margin: 4px;
     border-radius: 5px;
+    padding-right: 75px;
 
 }
 .feedback{
    font-weight: bold; 
 }
 .WriteyourFeedback{
-    padding-bottom: 39px;
-    padding-right: 82px;
+       padding-bottom: 39px;
+    padding-right: 75px;
     border-radius: 4px;
+    padding-top: 12px;
+    padding-left: 8px;
 }
 .submit{
-        color: rgb(239, 238, 238);
+    color: rgb(239, 238, 238);
     background-color: rgb(21, 21, 148);
-    padding-right: 75px;
-    padding-left: 63px;
+    padding-right: 106px;
+    padding-left: 92px;
     border-radius: 4px;
     padding-top: 9px;
     padding-bottom: 8px;
+    margin-top: 8px;
 }
