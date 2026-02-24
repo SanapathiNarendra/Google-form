@@ -9,11 +9,12 @@
 
 }
 .Fullname{
-   
-    font-weight: bold;
+       font-weight: bold;
+    margin-left: -168px;
 }
 .email{
     font-weight: bold;
+    margin-left: -198px;
 }
 .textemail{
     padding: 4px;
@@ -23,7 +24,8 @@
 
 }
 .feedback{
-   font-weight: bold; 
+    font-weight: bold;
+    margin-left: -176px;
 }
 .WriteyourFeedback{
        padding-bottom: 39px;
@@ -41,4 +43,28 @@
     padding-top: 9px;
     padding-bottom: 8px;
     margin-top: 8px;
+}
+.googleform{
+        text-align: center;
+  
+    background-color: rgb(188, 173, 201);
+ 
+    padding-top: 10px;
+    padding-right: 31px;
+    padding-left: 28px;
+    padding-bottom: 40px;
+    padding-bottom: 13px;
+}
+.Rate{
+    font-weight: bold;
+    margin-left: -138px;
+}
+.radio{
+    display: flex;
+    margin-left: 30px;
+    flex-wrap: wrap;
+}
+body{
+        place-items: center;
+
 }
