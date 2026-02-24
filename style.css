@@ -8,6 +8,15 @@
 
 }
 .Fullname{
-    color: rgba(16, 4, 4, 0.849);
+   
     font-weight: bold;
+}
+.email{
+    font-weight: bold;
+}
+.textemail{
+     padding: 4px;
+    margin: 4px;
+    border-radius: 5px;
+
 }
