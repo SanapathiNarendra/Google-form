@@ -76,5 +76,11 @@ padding-right: 88px;
     padding-bottom: 3px;
 }
 .Register{
-background-color: rgb(46, 231, 46);
+padding-right: 120px;
+    background-color: rgb(46, 231, 46);
+    padding-left: 97px;
+    margin-top: 12px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 5px;
 }
