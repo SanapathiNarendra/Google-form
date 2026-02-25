@@ -1,9 +1,9 @@
-.google{
-    background-color: aqua;
+.Student{
+    background-color: rgb(46, 215, 77);
     color: black;
 }
 .Studentname{
-
+ padding: 40px;
 }
 .text{
 
@@ -39,5 +39,5 @@
 
 }
 .Register{
-    
+
 }
