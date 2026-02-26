@@ -65,6 +65,7 @@
     flex-wrap: wrap;
 }
 body{
+    display:flex;
         place-items: center;
 
 }

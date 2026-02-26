@@ -85,13 +85,16 @@ padding-right: 120px;
     border-radius: 5px;
 }
 .googleform{
-    text-align: center;
-  
-    background-color: rgb(188, 173, 201);
-
+      background-color: rgb(255 96 96);
+    width: 256px;
     padding-top: 10px;
     padding-right: 31px;
     padding-left: 28px;
     padding-bottom: 40px;
     padding-bottom: 13px;
+    
+    border-radius: 13px;
+}
+body{
+    place-items: center;
 }
